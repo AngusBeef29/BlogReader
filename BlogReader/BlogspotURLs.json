@@ -1,0 +1,13 @@
+Blogspot URLs
+
+{
+	blogs: [
+	-{
+		url: "http://friendly-encounters.blogspot.co.uk/feeds/posts/default?alt=json"
+	}
+
+	-{
+		url: "http://globaleconomicanalysis.blogspot.com/feeds/posts/default?alt=json"
+	}
+	]
+}
